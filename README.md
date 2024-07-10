@@ -1,1 +1,2 @@
 # data_driven_excellence_excel_vanessaBaj
+Master the art of utilizing Microsoft Excel to streamline and perfect order fulfillment within your supply chain operations. Through this hands-on experience, you'll harness the capabilities of Excel, delving into the creation of dynamic and interactive dashboards, all while leveraging intermediate and advanced Excel functions to achieve unparalleled optimization.
